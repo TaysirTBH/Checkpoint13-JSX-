@@ -1,0 +1,20 @@
+.App{
+    text-align: center;
+}
+
+.title {
+    font-family: 'Raleway',sans-serif; 
+    font-size: 62px; 
+    font-weight: 800; 
+    line-height: 72px; 
+    margin: 0 0 24px; 
+    text-align: center; 
+    text-transform: uppercase; }
+
+.red{
+    color: red;
+}
+
+.red:hover{
+    color: rgb(153, 131, 116);
+}
